@@ -2,18 +2,18 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
 
     <item
-        android:id="@+id/dashboard"
-        android:title="Dashboard"
-        android:icon=""/>
+        android:id="@+id/library"
+        android:title="Library"
+        android:icon="@drawable/ic_library"/>
 
     <item
-        android:id="@+id/home"
-        android:title="Home"
-        android:icon=""/>
+        android:id="@+id/list"
+        android:title="List"
+        android:icon="@drawable/ic_list"/>
 
     <item
-        android:id="@+id/about"
-        android:title="About"
-        android:icon=""/>
+        android:id="@+id/settings"
+        android:title="Settings"
+        android:icon="@drawable/ic_settings"/>
 
 </menu>
